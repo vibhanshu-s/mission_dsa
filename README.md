@@ -2,15 +2,16 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**3 solved** — LeetCode: 3
+**4 solved** — LeetCode: 4
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 2 | 42m |
+| LeetCode | 3 | 53m |
 | Codeforces | 0 | 1m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | C++ | [code](leetcode/2016-maximum-difference-between-increasing-elements/solution.cpp) | 2026-08-04 |
 | LeetCode | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Easy | C++ | [code](leetcode/3731-find-missing-elements/solution.cpp) | 2026-08-04 |
 | LeetCode | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | Easy | C++ | [code](leetcode/101126-count-valid-prefixes/solution.cpp) | 2026-08-01 |
 | LeetCode | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | C++ | [code](leetcode/0002-add-two-numbers/solution.cpp) | 2026-07-31 |

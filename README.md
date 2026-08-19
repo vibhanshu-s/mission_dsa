@@ -2,16 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**6 solved** — LeetCode: 6
+**7 solved** — LeetCode: 7
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 5 | 2h 49m |
-| Codeforces | 0 | 1m |
-| HackerRank | 0 | 3m |
+| LeetCode | 6 | 4h 21m |
+| Codeforces | 0 | 2m |
+| HackerRank | 0 | 4m |
+| Kaggle | 0 | 57m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | C++ | [code](leetcode/0622-design-circular-queue/solution.cpp) | 2026-08-19 |
 | LeetCode | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | C++ | [code](leetcode/0402-remove-k-digits/solution.cpp) | 2026-08-10 |
 | LeetCode | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | C++ | [code](leetcode/0387-first-unique-character-in-a-string/solution.cpp) | 2026-08-06 |
 | LeetCode | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | Easy | C++ | [code](leetcode/2016-maximum-difference-between-increasing-elements/solution.cpp) | 2026-08-04 |

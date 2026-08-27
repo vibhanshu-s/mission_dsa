@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**8 solved** — LeetCode: 7 · HackerRank: 1
+**9 solved** — LeetCode: 7 · HackerRank: 2
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
 | LeetCode | 7 | 5h 24m |
 | Codeforces | 0 | 2m |
-| HackerRank | 0 | 11m |
+| HackerRank | 1 | 32m |
 | Kaggle | 0 | 57m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| HackerRank | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | Easy | cpp20 | [code](hackerrank/algorithms/append-and-delete/solution.cpp) | 2026-08-27 |
 | HackerRank | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem) | Medium | cpp20 | [code](hackerrank/algorithms/minimum-loss/solution.cpp) | 2026-08-27 |
 | LeetCode | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | Medium | C++ | [code](leetcode/0622-design-circular-queue/solution.cpp) | 2026-08-19 |
 | LeetCode | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | Medium | C++ | [code](leetcode/0402-remove-k-digits/solution.cpp) | 2026-08-10 |

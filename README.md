@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**10 solved** — LeetCode: 7 · HackerRank: 3
+**11 solved** — LeetCode: 7 · HackerRank: 4
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
 | LeetCode | 7 | 5h 24m |
 | Codeforces | 0 | 2m |
-| HackerRank | 2 | 43m |
+| HackerRank | 3 | 52m |
 | Kaggle | 0 | 57m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| HackerRank | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | Easy | cpp20 | [code](hackerrank/algorithms/grading/solution.cpp) | 2026-08-27 |
 | HackerRank | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | Easy | cpp20 | [code](hackerrank/algorithms/birthday-cake-candles/solution.cpp) | 2026-08-27 |
 | HackerRank | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | Easy | cpp20 | [code](hackerrank/algorithms/append-and-delete/solution.cpp) | 2026-08-27 |
 | HackerRank | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem) | Medium | cpp20 | [code](hackerrank/algorithms/minimum-loss/solution.cpp) | 2026-08-27 |

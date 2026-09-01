@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**11 solved** — LeetCode: 7 · HackerRank: 4
+**12 solved** — LeetCode: 7 · HackerRank: 5
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 7 | 5h 24m |
+| LeetCode | 7 | 6h 31m |
 | Codeforces | 0 | 2m |
-| HackerRank | 3 | 52m |
+| HackerRank | 4 | 1h 29m |
 | Kaggle | 0 | 57m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| HackerRank | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem) | Hard | cpp20 | [code](hackerrank/ctci-merge-sort/solution.cpp) | 2026-09-01 |
 | HackerRank | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | Easy | cpp20 | [code](hackerrank/algorithms/grading/solution.cpp) | 2026-08-27 |
 | HackerRank | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | Easy | cpp20 | [code](hackerrank/algorithms/birthday-cake-candles/solution.cpp) | 2026-08-27 |
 | HackerRank | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem) | Easy | cpp20 | [code](hackerrank/algorithms/append-and-delete/solution.cpp) | 2026-08-27 |

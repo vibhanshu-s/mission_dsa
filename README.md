@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**12 solved** — LeetCode: 7 · HackerRank: 5
+**13 solved** — LeetCode: 7 · HackerRank: 6
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 7 | 6h 31m |
+| LeetCode | 7 | 6h 51m |
 | Codeforces | 0 | 2m |
-| HackerRank | 4 | 1h 29m |
+| HackerRank | 5 | 2h 2m |
 | Kaggle | 0 | 57m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| HackerRank | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | Easy | cpp20 | [code](hackerrank/algorithms/apple-and-orange/solution.cpp) | 2026-09-02 |
 | HackerRank | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem) | Hard | cpp20 | [code](hackerrank/ctci-merge-sort/solution.cpp) | 2026-09-01 |
 | HackerRank | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | Easy | cpp20 | [code](hackerrank/algorithms/grading/solution.cpp) | 2026-08-27 |
 | HackerRank | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | Easy | cpp20 | [code](hackerrank/algorithms/birthday-cake-candles/solution.cpp) | 2026-08-27 |

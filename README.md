@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**13 solved** — LeetCode: 7 · HackerRank: 6
+**14 solved** — HackerRank: 7 · LeetCode: 7
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
 | LeetCode | 7 | 6h 51m |
 | Codeforces | 0 | 2m |
-| HackerRank | 5 | 2h 2m |
+| HackerRank | 6 | 2h 17m |
 | Kaggle | 0 | 57m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| HackerRank | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | Easy | cpp20 | [code](hackerrank/algorithms/time-conversion/solution.cpp) | 2026-09-02 |
 | HackerRank | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | Easy | cpp20 | [code](hackerrank/algorithms/apple-and-orange/solution.cpp) | 2026-09-02 |
 | HackerRank | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem) | Hard | cpp20 | [code](hackerrank/ctci-merge-sort/solution.cpp) | 2026-09-01 |
 | HackerRank | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | Easy | cpp20 | [code](hackerrank/algorithms/grading/solution.cpp) | 2026-08-27 |

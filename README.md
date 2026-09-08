@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**14 solved** — HackerRank: 7 · LeetCode: 7
+**15 solved** — LeetCode: 8 · HackerRank: 7
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 7 | 6h 51m |
+| LeetCode | 7 | 8h 22m |
 | Codeforces | 0 | 2m |
-| HackerRank | 6 | 2h 17m |
+| HackerRank | 7 | 2h 51m |
 | Kaggle | 0 | 57m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | [code](leetcode/0104-maximum-depth-of-binary-tree/solution.cpp) | 2026-09-08 |
 | HackerRank | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | Easy | cpp20 | [code](hackerrank/algorithms/time-conversion/solution.cpp) | 2026-09-02 |
 | HackerRank | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | Easy | cpp20 | [code](hackerrank/algorithms/apple-and-orange/solution.cpp) | 2026-09-02 |
 | HackerRank | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort/problem) | Hard | cpp20 | [code](hackerrank/ctci-merge-sort/solution.cpp) | 2026-09-01 |

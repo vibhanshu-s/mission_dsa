@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**15 solved** — LeetCode: 8 · HackerRank: 7
+**16 solved** — LeetCode: 9 · HackerRank: 7
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 7 | 8h 22m |
-| Codeforces | 0 | 2m |
-| HackerRank | 7 | 2h 51m |
-| Kaggle | 0 | 57m |
+| LeetCode | 8 | 18h 49m |
+| Codeforces | 0 | 8m |
+| HackerRank | 7 | 2h 52m |
+| Kaggle | 0 | 47h 53m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | C++ | [code](leetcode/0099-recover-binary-search-tree/solution.cpp) | 2026-10-26 |
 | LeetCode | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | [code](leetcode/0104-maximum-depth-of-binary-tree/solution.cpp) | 2026-09-08 |
 | HackerRank | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | Easy | cpp20 | [code](hackerrank/algorithms/time-conversion/solution.cpp) | 2026-09-02 |
 | HackerRank | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | Easy | cpp20 | [code](hackerrank/algorithms/apple-and-orange/solution.cpp) | 2026-09-02 |

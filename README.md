@@ -6,7 +6,7 @@ Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed au
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 10 | 22h 13m |
+| LeetCode | 11 | 22h 14m |
 | Codeforces | 0 | 8m |
 | HackerRank | 7 | 2h 52m |
 | Kaggle | 0 | 50h 48m |

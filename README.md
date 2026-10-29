@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**16 solved** — LeetCode: 9 · HackerRank: 7
+**17 solved** — LeetCode: 10 · HackerRank: 7
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 8 | 18h 49m |
+| LeetCode | 9 | 21h 55m |
 | Codeforces | 0 | 8m |
 | HackerRank | 7 | 2h 52m |
-| Kaggle | 0 | 47h 53m |
+| Kaggle | 0 | 50h 43m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | C++ | [code](leetcode/0455-assign-cookies/solution.cpp) | 2026-10-29 |
 | LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | C++ | [code](leetcode/0099-recover-binary-search-tree/solution.cpp) | 2026-10-26 |
 | LeetCode | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | [code](leetcode/0104-maximum-depth-of-binary-tree/solution.cpp) | 2026-09-08 |
 | HackerRank | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | Easy | cpp20 | [code](hackerrank/algorithms/time-conversion/solution.cpp) | 2026-09-02 |

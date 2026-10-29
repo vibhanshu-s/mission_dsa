@@ -1,6 +1,6 @@
 # 92. Reverse Linked List II
 
-**Difficulty:** Medium · **Language:** C++ · **Memory:** 11.2 MB · **Runtime:** 0 ms
+**Difficulty:** Medium · **Language:** C++ · **Memory:** 11 MB · **Runtime:** 0 ms
 
 [View on LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/)
 

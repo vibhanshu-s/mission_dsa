@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**17 solved** — LeetCode: 10 · HackerRank: 7
+**18 solved** — LeetCode: 11 · HackerRank: 7
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 9 | 21h 55m |
+| LeetCode | 10 | 22h 13m |
 | Codeforces | 0 | 8m |
 | HackerRank | 7 | 2h 52m |
-| Kaggle | 0 | 50h 43m |
+| Kaggle | 0 | 50h 48m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | C++ | [code](leetcode/0092-reverse-linked-list-ii/solution.cpp) | 2026-10-29 |
 | LeetCode | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | C++ | [code](leetcode/0455-assign-cookies/solution.cpp) | 2026-10-29 |
 | LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | C++ | [code](leetcode/0099-recover-binary-search-tree/solution.cpp) | 2026-10-26 |
 | LeetCode | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | C++ | [code](leetcode/0104-maximum-depth-of-binary-tree/solution.cpp) | 2026-09-08 |

@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**20 solved** — LeetCode: 11 · HackerRank: 7 · Codeforces: 2
+**21 solved** — LeetCode: 11 · HackerRank: 7 · Codeforces: 3
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
 | LeetCode | 12 | 24h 33m |
-| Codeforces | 1 | 32m |
+| Codeforces | 2 | 40m |
 | HackerRank | 7 | 2h 52m |
 | Kaggle | 0 | 66h 35m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| Codeforces | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | — | C++23 (GCC 14-64, msys2) | [code](codeforces/2290/C-books-on-a-shelf/solution.cpp) | 2026-11-12 |
 | Codeforces | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | — | C++23 (GCC 14-64, msys2) | [code](codeforces/2290/B-stubborn-pen/solution.cpp) | 2026-11-12 |
 | Codeforces | [Three Piles](https://codeforces.com/contest/2290/problem/A) | — | C++23 (GCC 14-64, msys2) | [code](codeforces/2290/A-three-piles/solution.cpp) | 2026-11-12 |
 | LeetCode | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | C++ | [code](leetcode/0092-reverse-linked-list-ii/solution.cpp) | 2026-10-29 |

@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**18 solved** — LeetCode: 11 · HackerRank: 7
+**19 solved** — LeetCode: 11 · HackerRank: 7 · Codeforces: 1
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 11 | 22h 14m |
-| Codeforces | 0 | 8m |
+| LeetCode | 12 | 24h 33m |
+| Codeforces | 0 | 28m |
 | HackerRank | 7 | 2h 52m |
-| Kaggle | 0 | 50h 48m |
+| Kaggle | 0 | 66h 35m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| Codeforces | [Three Piles](https://codeforces.com/contest/2290/problem/A) | — | C++23 (GCC 14-64, msys2) | [code](codeforces/2290/A-three-piles/solution.cpp) | 2026-11-12 |
 | LeetCode | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | Medium | C++ | [code](leetcode/0092-reverse-linked-list-ii/solution.cpp) | 2026-10-29 |
 | LeetCode | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | C++ | [code](leetcode/0455-assign-cookies/solution.cpp) | 2026-10-29 |
 | LeetCode | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | C++ | [code](leetcode/0099-recover-binary-search-tree/solution.cpp) | 2026-10-26 |

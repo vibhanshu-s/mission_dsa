@@ -2,17 +2,19 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**22 solved** — LeetCode: 11 · HackerRank: 7 · Codeforces: 4
+**24 solved** — LeetCode: 12 · HackerRank: 7 · Codeforces: 5
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 12 | 24h 33m |
-| Codeforces | 3 | 58m |
+| LeetCode | 12 | 24h 37m |
+| Codeforces | 5 | 1h 7m |
 | HackerRank | 7 | 2h 52m |
-| Kaggle | 0 | 66h 41m |
+| Kaggle | 0 | 73h 39m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | Medium | C++ | [code](leetcode/101224-maximize-score-after-zeroing-subtrees/solution.cpp) | 2026-11-15 |
+| Codeforces | [Avalanche](https://codeforces.com/contest/2290/problem/E) | — | C++23 (GCC 14-64, msys2) | [code](codeforces/2290/E-avalanche/solution.cpp) | 2026-11-12 |
 | Codeforces | [Letters Down](https://codeforces.com/contest/2290/problem/D) | — | C++23 (GCC 14-64, msys2) | [code](codeforces/2290/D-letters-down/solution.cpp) | 2026-11-12 |
 | Codeforces | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | — | C++23 (GCC 14-64, msys2) | [code](codeforces/2290/C-books-on-a-shelf/solution.cpp) | 2026-11-12 |
 | Codeforces | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | — | C++23 (GCC 14-64, msys2) | [code](codeforces/2290/B-stubborn-pen/solution.cpp) | 2026-11-12 |

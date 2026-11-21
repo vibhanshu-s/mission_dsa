@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**26 solved** — LeetCode: 14 · HackerRank: 7 · Codeforces: 5
+**27 solved** — LeetCode: 15 · HackerRank: 7 · Codeforces: 5
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 14 | 27h 46m |
+| LeetCode | 15 | 27h 47m |
 | Codeforces | 5 | 1h 7m |
 | HackerRank | 7 | 2h 52m |
 | Kaggle | 0 | 82h 38m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Minimum Range After Sum Operations](https://leetcode.com/problems/minimum-range-after-sum-operations/) | Medium | C++ | [code](leetcode/101207-minimum-range-after-sum-operations/solution.cpp) | 2026-11-21 |
 | LeetCode | [Assign Umbrella on Rainy Days](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | Easy | C++ | [code](leetcode/101234-assign-umbrella-on-rainy-days/solution.cpp) | 2026-11-21 |
 | LeetCode | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | Easy | C++ | [code](leetcode/4111-count-consistent-subarrays-i/solution.cpp) | 2026-11-15 |
 | LeetCode | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | Medium | C++ | [code](leetcode/101224-maximize-score-after-zeroing-subtrees/solution.cpp) | 2026-11-15 |

@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**25 solved** — LeetCode: 13 · HackerRank: 7 · Codeforces: 5
+**26 solved** — LeetCode: 14 · HackerRank: 7 · Codeforces: 5
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 13 | 24h 39m |
+| LeetCode | 14 | 27h 46m |
 | Codeforces | 5 | 1h 7m |
 | HackerRank | 7 | 2h 52m |
-| Kaggle | 0 | 73h 39m |
+| Kaggle | 0 | 82h 38m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Assign Umbrella on Rainy Days](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | Easy | C++ | [code](leetcode/101234-assign-umbrella-on-rainy-days/solution.cpp) | 2026-11-21 |
 | LeetCode | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | Easy | C++ | [code](leetcode/4111-count-consistent-subarrays-i/solution.cpp) | 2026-11-15 |
 | LeetCode | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | Medium | C++ | [code](leetcode/101224-maximize-score-after-zeroing-subtrees/solution.cpp) | 2026-11-15 |
 | Codeforces | [Avalanche](https://codeforces.com/contest/2290/problem/E) | — | C++23 (GCC 14-64, msys2) | [code](codeforces/2290/E-avalanche/solution.cpp) | 2026-11-12 |

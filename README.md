@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**28 solved** — LeetCode: 16 · HackerRank: 7 · Codeforces: 5
+**29 solved** — LeetCode: 17 · HackerRank: 7 · Codeforces: 5
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 16 | 27h 58m |
+| LeetCode | 17 | 28h 13m |
 | Codeforces | 5 | 1h 7m |
 | HackerRank | 7 | 2h 52m |
 | Kaggle | 0 | 82h 56m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Minimum Cost to Make All Array Elements Equal](https://leetcode.com/problems/minimum-cost-to-make-all-array-elements-equal/) | Medium | C++ | [code](leetcode/101197-minimum-cost-to-make-all-array-elements-equal/solution.cpp) | 2026-11-22 |
 | LeetCode | [Count Dominant Elements](https://leetcode.com/problems/count-dominant-elements/) | Easy | C++ | [code](leetcode/101237-count-dominant-elements/solution.cpp) | 2026-11-22 |
 | LeetCode | [Minimum Range After Sum Operations](https://leetcode.com/problems/minimum-range-after-sum-operations/) | Medium | C++ | [code](leetcode/101207-minimum-range-after-sum-operations/solution.cpp) | 2026-11-21 |
 | LeetCode | [Assign Umbrella on Rainy Days](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | Easy | C++ | [code](leetcode/101234-assign-umbrella-on-rainy-days/solution.cpp) | 2026-11-21 |

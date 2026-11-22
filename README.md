@@ -2,17 +2,18 @@
 
 Accepted submissions from LeetCode, Codeforces, HackerRank and Kaggle, pushed automatically by the **CodeSync** browser extension.
 
-**27 solved** — LeetCode: 15 · HackerRank: 7 · Codeforces: 5
+**28 solved** — LeetCode: 16 · HackerRank: 7 · Codeforces: 5
 
 | Platform | Solved | Time spent |
 | --- | ---: | ---: |
-| LeetCode | 15 | 27h 47m |
+| LeetCode | 16 | 27h 58m |
 | Codeforces | 5 | 1h 7m |
 | HackerRank | 7 | 2h 52m |
-| Kaggle | 0 | 82h 38m |
+| Kaggle | 0 | 82h 56m |
 
 | Platform | Problem | Difficulty | Language | Solution | Date |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | [Count Dominant Elements](https://leetcode.com/problems/count-dominant-elements/) | Easy | C++ | [code](leetcode/101237-count-dominant-elements/solution.cpp) | 2026-11-22 |
 | LeetCode | [Minimum Range After Sum Operations](https://leetcode.com/problems/minimum-range-after-sum-operations/) | Medium | C++ | [code](leetcode/101207-minimum-range-after-sum-operations/solution.cpp) | 2026-11-21 |
 | LeetCode | [Assign Umbrella on Rainy Days](https://leetcode.com/problems/assign-umbrella-on-rainy-days/) | Easy | C++ | [code](leetcode/101234-assign-umbrella-on-rainy-days/solution.cpp) | 2026-11-21 |
 | LeetCode | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | Easy | C++ | [code](leetcode/4111-count-consistent-subarrays-i/solution.cpp) | 2026-11-15 |
